@@ -1,0 +1,37 @@
+/* black background color to the top navigation */
+.topnav {
+    background-color: beige;
+    overflow: hidden;
+  }
+  
+  /* Style inside the navigation bar */
+  .topnav a {
+    float: left;
+    color: black;
+    padding: 10px 16px;
+    text-decoration: none;
+    font-size: 17px;
+  }
+  
+  /* hover */
+  .topnav a:hover {
+    background-color: #ddd;
+  }
+  
+  /* Style for table */
+  .table table {
+    border:1px solid black;
+  }
+
+  .table th {
+    border:1px solid black;
+  }
+
+  .table tr {
+    border:1px solid black;
+  }
+  .table td {
+    border:1px solid black;
+  }
+  
+  
